@@ -1,0 +1,23 @@
+{"time":"2025-03-17T21:34:10.803156+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/happy/Desktop/25-1-DS-Week-1-Assignment/wandb/run-20250317_213410-h1czbzpv/logs/debug-core.log"}
+{"time":"2025-03-17T21:34:10.911348+09:00","level":"INFO","msg":"created new stream","id":"h1czbzpv"}
+{"time":"2025-03-17T21:34:10.911411+09:00","level":"INFO","msg":"stream: started","id":"h1czbzpv"}
+{"time":"2025-03-17T21:34:10.91153+09:00","level":"INFO","msg":"handler: started","stream_id":"h1czbzpv"}
+{"time":"2025-03-17T21:34:10.911672+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"h1czbzpv"}
+{"time":"2025-03-17T21:34:10.911684+09:00","level":"INFO","msg":"sender: started","stream_id":"h1czbzpv"}
+{"time":"2025-03-17T21:34:11.264738+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:34:44.429266+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:34:44.433299+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:34:44.607898+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:39:05.658204+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:39:05.659682+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:39:07.000632+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:39:07.004607+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:39:10.168657+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:39:11.405923+09:00","level":"INFO","msg":"stream: closing","id":"h1czbzpv"}
+{"time":"2025-03-17T21:39:11.406236+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T21:39:11.407102+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T21:39:12.333655+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T21:39:12.623996+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"h1czbzpv"}
+{"time":"2025-03-17T21:39:12.62404+09:00","level":"INFO","msg":"sender: closed","stream_id":"h1czbzpv"}
+{"time":"2025-03-17T21:39:12.624429+09:00","level":"INFO","msg":"handler: closed","stream_id":"h1czbzpv"}
+{"time":"2025-03-17T21:39:12.624492+09:00","level":"INFO","msg":"stream: closed","id":"h1czbzpv"}

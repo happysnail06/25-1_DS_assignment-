@@ -1,0 +1,7 @@
+{"time":"2025-03-17T21:40:10.680744+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/happy/Desktop/25-1-DS-Week-1-Assignment/wandb/run-20250317_214010-ic3zdf2f/logs/debug-core.log"}
+{"time":"2025-03-17T21:40:10.78718+09:00","level":"INFO","msg":"created new stream","id":"ic3zdf2f"}
+{"time":"2025-03-17T21:40:10.787221+09:00","level":"INFO","msg":"stream: started","id":"ic3zdf2f"}
+{"time":"2025-03-17T21:40:10.787241+09:00","level":"INFO","msg":"handler: started","stream_id":"ic3zdf2f"}
+{"time":"2025-03-17T21:40:10.787243+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"ic3zdf2f"}
+{"time":"2025-03-17T21:40:10.7873+09:00","level":"INFO","msg":"sender: started","stream_id":"ic3zdf2f"}
+{"time":"2025-03-17T21:40:11.095399+09:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,19 @@
+{"time":"2025-03-17T21:28:35.789116+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/happy/Desktop/25-1-DS-Week-1-Assignment/wandb/run-20250317_212835-2ivxdofd/logs/debug-core.log"}
+{"time":"2025-03-17T21:28:35.898093+09:00","level":"INFO","msg":"created new stream","id":"2ivxdofd"}
+{"time":"2025-03-17T21:28:35.898196+09:00","level":"INFO","msg":"stream: started","id":"2ivxdofd"}
+{"time":"2025-03-17T21:28:35.898391+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"2ivxdofd"}
+{"time":"2025-03-17T21:28:35.898403+09:00","level":"INFO","msg":"handler: started","stream_id":"2ivxdofd"}
+{"time":"2025-03-17T21:28:35.89854+09:00","level":"INFO","msg":"sender: started","stream_id":"2ivxdofd"}
+{"time":"2025-03-17T21:28:36.293406+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:29:09.564282+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:29:10.391419+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:29:10.584008+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:29:13.344806+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:29:14.613848+09:00","level":"INFO","msg":"stream: closing","id":"2ivxdofd"}
+{"time":"2025-03-17T21:29:14.614194+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T21:29:14.614971+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T21:29:15.342999+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T21:29:15.630301+09:00","level":"INFO","msg":"sender: closed","stream_id":"2ivxdofd"}
+{"time":"2025-03-17T21:29:15.6307+09:00","level":"INFO","msg":"handler: closed","stream_id":"2ivxdofd"}
+{"time":"2025-03-17T21:29:15.630287+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2ivxdofd"}
+{"time":"2025-03-17T21:29:15.63159+09:00","level":"INFO","msg":"stream: closed","id":"2ivxdofd"}
